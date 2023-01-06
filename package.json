@@ -5,8 +5,16 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^6.5.2",
+    "@react-navigation/native": "^6.1.1",
+    "@react-navigation/stack": "^6.3.10",
     "react": "17.0.*",
     "react-dom": "17.0.*",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-reanimated": "^2.13.0",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.18.2",
     "react-native-web": "0.18.*",
     "react-scripts": "^2.1.3"
   },
